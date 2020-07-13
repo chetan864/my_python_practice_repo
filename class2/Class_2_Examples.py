@@ -3,3 +3,6 @@ y = 3
 
 z = x**y
 print(z)
+
+p = x*y
+print(p)
