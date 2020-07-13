@@ -1,6 +1,6 @@
 x = 2
 y = 3
-
+a = 10
 z = x**y
 print(z)
 
