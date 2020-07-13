@@ -11,3 +11,4 @@ print('Last line Hello')
 
 
 print('BL-XXX-CK branch')
+print('git push --set-upstream origin feature/BL-XXX-CK')
