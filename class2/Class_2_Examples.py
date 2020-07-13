@@ -6,3 +6,4 @@ print(z)
 
 p = x*y
 print(p)
+print('Completed')
