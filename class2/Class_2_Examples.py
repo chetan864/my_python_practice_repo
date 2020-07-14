@@ -19,3 +19,5 @@ print('git merge feature/BL-XXX-CK')
 print('git add .')
 print('git commit -m "1st push in BL-XXX branch" ')
 print('git push')
+
+print('master branch')
