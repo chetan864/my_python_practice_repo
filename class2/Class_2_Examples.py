@@ -23,5 +23,6 @@ print('git push')
 print('master branch')
 print('git pull')
 print('git pull origin master')
-
-
+print('git add .')
+print('git commit -m "2nd push in BL-XXX branch" ')
+print('git push')
