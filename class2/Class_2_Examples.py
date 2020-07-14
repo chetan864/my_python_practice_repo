@@ -21,4 +21,7 @@ print('git commit -m "1st push in BL-XXX branch" ')
 print('git push')
 
 print('master branch')
+print('git pull')
 print('git pull origin master')
+
+
